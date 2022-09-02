@@ -25,4 +25,4 @@ This is a clone of the website of a Reebok. I have developed it using HTML, CSS,
 
 
 ### Website Preview:
-<img src="./img-reebok/ScreenShot.png" alt="REEBOK SCREEN SHOT">
+<img src="./img/ScreenShot.png" alt="REEBOK">
