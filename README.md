@@ -1,12 +1,10 @@
-# Reebok-Clone
-This is a Clone of Reebok India Website
+# Reebok-2.0
+This is a clone of the website of a Reebok. I have developed it using HTML, CSS, Bootstrap, JavaScript, jQuery.
 
 ### Deployment
 | Environment | Link |
 |-------------|------|
-| GitHub Pages | [GitHub Pages](https://kumar-laxmi.github.io/Reebok-Clone/) |
-| Vercel Preview | [Vercel Preview](https://reebok-clone-rky5f1uch-kumar-laxmi.vercel.app/) |
-| Vercel Production | [Vercel Production](https://reebok-clone-rky5f1uch-kumar-laxmi.vercel.app/)
+| GitHub Pages | [GitHub Pages](https://rhythm1950.github.io/Reebok-2.0/) |
 
 ### Technology Stack
 #### Languages:
@@ -16,8 +14,7 @@ This is a Clone of Reebok India Website
 
 #### Frame-Works, PlatForm & Libraries:
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![JQUERY](https://img.shields.io/badge/jquery-%0F3460.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 #### IDE Used:
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -27,5 +24,5 @@ This is a Clone of Reebok India Website
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-### Screen-Shot of Clone:
+### Website Preview:
 <img src="./img-reebok/ScreenShot.png" alt="REEBOK SCREEN SHOT">
